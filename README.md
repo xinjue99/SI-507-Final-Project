@@ -30,7 +30,7 @@ The data is organized into a tree structure with genres as parent nodes and movi
 ## Interactivity and Presentation
 •	Visit the homepage and use the dropdown menus to select movie preferences.\
 •	Click "Get Recommendations" to view a list of suggested movies.\
-•	Each movie in the recommendation list includes a link to its IMDb page for further details.
+•	Each movie in the recommendation list includes a link to its IMDb page for further details. You could scan the detailed information on IMDB by clicking the title of each movie.
 
 
 ## Special Instructions
